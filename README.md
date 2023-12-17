@@ -4,7 +4,7 @@
 
 O projeto consiste na implementação de classes e objetos e possui como entradas o nome, idade e tipo (classe do personagem). Como saida, o sistema deverá informar a classe e o tipo do dano causado com base na classe escolhida. O código pode ser observado abaixo:
 ```
-o ${this.tipo} atacou usando ${tipoAtaque}
+`o ${this.tipo} atacou usando ${tipoAtaque}`
 ```
 ### Exemplo
 
